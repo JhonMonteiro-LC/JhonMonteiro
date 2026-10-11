@@ -5,10 +5,14 @@
 
 ---
 
-🎯 Meus Objetivos
+🎯 Meus Objetivos:
+
 🚀 **Aprender e evoluir** constantemente na programação.
+
 🛠️ **Desenvolver projetos práticos** para aplicar meus conhecimentos.
+
 💼 **Construir meu portfólio** e conquistar oportunidades na área de tecnologia.
+
 
 ---
 
